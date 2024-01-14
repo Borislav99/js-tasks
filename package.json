@@ -1,0 +1,23 @@
+{
+  "name": "nera-tasks",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000j\u0000s\u0000-\u0000t\u0000a\u0000s\u0000k\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borislav99/js-tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borislav99/js-tasks/issues"
+  },
+  "homepage": "https://github.com/Borislav99/js-tasks#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
